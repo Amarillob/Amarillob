@@ -2,9 +2,9 @@
 - 👀 I’m interested in build crazy things and get sorprised (yes, i maen sorprise miself) with that
 - 🌱 I’m currently learning a little of JS and React to improve my projects
 - 📫 How to reach me:
-    - [LinkTree]([https://duckduckgo.com](https://linktr.ee/amarillo.brianemiliano))
-    - [LinkedIn]([https://duckduckgo.com](https://www.linkedin.com/in/amarillo-brianemiliano/))
-    - [Personal Website]([https://duckduckgo.com](https://economistaentecnologia.com.ar/))
+    - [LinkTree](https://linktr.ee/amarillo.brianemiliano)
+    - [LinkedIn](https://www.linkedin.com/in/amarillo-brianemiliano/)
+    - [Personal Website](https://economistaentecnologia.com.ar/)
 
 
 <!---
