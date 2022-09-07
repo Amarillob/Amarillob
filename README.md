@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Amarillo, self-learn programmer and economics student at FCE UNLP
-- 👀 I’m interested in build crazy things and get sorprised (yes, i maen sorprise miself) with that
-- 🌱 I’m currently learning a little of JS and React to improve my projects
+- 👀 I’m interested in build crazy things and get sorprised (yes, i mean surprise miself) with that
+- 🌱 I’m currently learning a SQL to understand differents data types
 - 📫 How to reach me:
     - [LinkTree](https://linktr.ee/amarillo.brianemiliano)
     - [LinkedIn](https://www.linkedin.com/in/amarillo-brianemiliano/)
