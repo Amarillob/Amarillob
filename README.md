@@ -2,7 +2,7 @@
 - 👀 I’m interested in build crazy things and get sorprised (yes, i mean surprise miself) with that
 - 🌱 I’m currently learning a SQL to understand differents data types
 - 📫 How to reach me:
-    - [LinkTree](https://external.ink?to=/linktr.ee/amarillo.brianemiliano)
+    - [LinkTree](https://linktr.ee/amarillo.brianemiliano)
     - [LinkedIn](https://www.linkedin.com/in/amarillo-brianemiliano/)
     - [Personal Website](https://economistaentecnologia.com.ar/)
 
